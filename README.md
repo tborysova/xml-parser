@@ -59,7 +59,7 @@ XML documents can be sent to the application via HTTP POST requests
 
 ## GET
 
-* URL - http://localhost:8080/api/epapers?size=5&page=2sort=id
+* URL - http://localhost:8080/api/epapers?size=1&page=7&sort=id
 * Get content of the DB with possibility of sorting, paging and filtering.
 
 
