@@ -25,9 +25,11 @@ Installation
 
 * Set up database name and password
 
-*  Run mvn clean install
+*  mvn clean install 
 
-*  Run java -jar target/xml-parser-0.0.1-SNAPSHOT.jar
+*  mvn package
+
+*  java -jar target/xml-parser-0.0.1-SNAPSHOT.jar
 
 Locally 
 
@@ -37,7 +39,11 @@ Locally
 
 * mvn spring-boot:run
 
-REST API
+
+
+
+**REST API**
+
 
 ## POST
 
